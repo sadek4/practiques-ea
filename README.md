@@ -1,2 +1,2 @@
-# practiques-ea
-Continguts Multimedia
+# Pràctiques-ea
+Abdessadek El Atiki Fadili
