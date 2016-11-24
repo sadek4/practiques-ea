@@ -1,7 +1,3 @@
-/**
- * Created by boyander on 11/10/16.
- */
-
 var Item = function Item(imagen, preu){
     this.image = imagen;
     this.price = 0.00;
